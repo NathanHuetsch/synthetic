@@ -1,2 +1,2 @@
 # synthetic
-Investigate GASP on synthetic graphs
+Investigate GASP on synthetic graphs!
